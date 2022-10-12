@@ -1,0 +1,12 @@
+#!/bin/sh
+#set -x
+check_inter="20s"
+while true; do
+        sleep $check_inter
+        #date
+        a="$(ps | grep cgminer | grep -v 'grep cgminer')"
+        b="$(ps | grep bmminer | grep -v 'grep bmminer')"
+        if [ -z "$a" -o -z "$b" ] ; then
+                /etc/init.d/cgminer.sh restart
+        fi
+done

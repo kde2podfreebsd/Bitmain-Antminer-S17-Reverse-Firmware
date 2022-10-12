@@ -1,0 +1,662 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>miner-stats</title>
+    <link rel="stylesheet" href="../css/cascade.css">
+    <script type="text/javascript" src="../js/jquery-1.10.2.js"></script>
+</head>
+<body>
+    <div id="menubar" style="background-color: #0a2b40;">
+        <div class="hostinfo" style="float: left; with: 500px;">
+        <img src="../images/antminer_logo.png" width="92" height="50" alt="" title="" border="0">
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div id="maincontainer">
+        <div id="tabmenu">
+            <div class="tabmenu1">
+                <ul class="tabmenu l1">
+                    <li class="tabmenu-item-status"><a href="/index.html">System</a></li>
+                    <li class="tabmenu-item-system"><a href="/cgi-bin/minerConfiguration.cgi">Miner Configuration</a></li>
+                    <li class="tabmenu-item-network active"><a href="/cgi-bin/minerStatus.cgi">Miner Status</a></li>
+                    <li class="tabmenu-item-system"><a href="/network.html">Network</a></li>
+                </ul>
+                <br style="clear: both">
+            </div>
+        </div>
+        <div id="maincontent">
+            <h2 style="padding-bottom:10px;">
+                <a id="content" name="content">Miner Status</a>
+            </h2>
+            <div class="cbi-map" id="cbi-bmminerstatus">
+                <!-- tblsection -->
+                <fieldset class="cbi-section" id="cbi-table-table">
+                    <legend>Summary</legend>
+                    <div class="cbi-section-descr"></div>
+                    <div class="cbi-section-node">
+                        <table class="cbi-section-table J-summary-table">
+                            <tbody>
+                                <tr class="cbi-section-table-titles">
+                                    <th class="cbi-section-table-cell">Elapsed</th>
+                                    <th class="cbi-section-table-cell">GH/S(RT)</th>
+                                    <th class="cbi-section-table-cell">GH/S(avg)</th>
+                                    <th class="cbi-section-table-cell">FoundBlocks</th>
+                                    <th class="cbi-section-table-cell">LocalWork</th>                               
+                                    <th class="cbi-section-table-cell">Utility</th>
+
+                                <th class="cbi-section-table-cell">WU</th>
+                                <th class="cbi-section-table-cell">BestShare</th>
+                            </tr>
+                            <tr class="cbi-section-table-descr">
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                            </tr>   
+                        </tbody>
+                    </table>
+                </div>
+            </fieldset>
+            <!-- /tblsection -->
+            <!-- tblsection -->
+            <fieldset class="cbi-section" id="cbi-table-table">
+                <legend>Pools</legend>
+                <div class="cbi-section-descr"></div>
+                <div class="cbi-section-node">
+                    <table id="ant_pools" class="cbi-section-table J-pools-table">
+                        <thead>
+                            <tr class="cbi-section-table-titles">
+                                <th class="cbi-section-table-cell">Pool</th>
+                                <th class="cbi-section-table-cell">URL</th>
+                                <th class="cbi-section-table-cell">User</th>
+                                <th class="cbi-section-table-cell">Status</th>
+                                <th class="cbi-section-table-cell">Diff</th>
+                                <th class="cbi-section-table-cell">GetWorks</th>
+                                <th class="cbi-section-table-cell">Priority</th>
+                                <th class="cbi-section-table-cell">Accepted</th>        
+                                <th class="cbi-section-table-cell">Diff1#</th>
+                                <th class="cbi-section-table-cell">DiffA#</th>
+                                <th class="cbi-section-table-cell">DiffR#</th>
+                                <th class="cbi-section-table-cell">DiffS#</th>
+                                <th class="cbi-section-table-cell">Rejected</th>
+                                <th class="cbi-section-table-cell">Discarded</th>
+                                <th class="cbi-section-table-cell">Stale</th>
+                                <th class="cbi-section-table-cell">LSDiff</th>
+                                <th class="cbi-section-table-cell">LSTime</th>
+                            </tr>
+                            <tr class="cbi-section-table-descr">
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                        <tfoot>
+                        </tfoot>
+                    </table>
+
+                </div>
+            </fieldset>
+            <!-- /tblsection -->
+            <!-- tblsection -->
+            <fieldset class="cbi-section" id="cbi-table-table">
+                <legend>AntMiner</legend>
+                <div class="cbi-section-descr"></div>
+                <div class="cbi-section-node">
+                    <table id="ant_devs" class="cbi-section-table">
+                        <thead>
+                            <tr class="cbi-section-table-titles">
+                                <th class="cbi-section-table-cell">Chain#</th>
+                                <th class="cbi-section-table-cell">ASIC#</th>
+                                <th class="cbi-section-table-cell">Frequency</th>
+                                <th class="cbi-section-table-cell">GH/S(RT)</th>
+                                <th class="cbi-section-table-cell">HW</th>
+                                <th class="cbi-section-table-cell">Temp(PCB)</th>
+                                <th class="cbi-section-table-cell">Temp(Chip)</th>
+                                <th class="cbi-section-table-cell">ASIC status</th>
+                            </tr>
+                            <tr class="cbi-section-table-descr">
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                                <th class="cbi-section-table-cell"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="cbi-section-node" style="margin-top:8px;">
+                <table id="ant_fans" class="cbi-section-table">
+                    <tbody>
+                    </tbody>
+                </table>
+                </div>
+            </fieldset>
+            <!-- /tblsection -->
+        </div>
+    </div>
+
+<script>
+    $(function(){
+
+        getAjaxData("/cgi-bin/miner_summary.cgi",setSummary);//处理summary table
+        getAjaxData("/cgi-bin/miner_pools.cgi",setPools);//处理pools table
+        getAjaxData("/cgi-bin/miner_stats.cgi",setAntMiner);//处理antminer table
+    
+        //获取数据
+        function getAjaxData(url,backFun){
+            $.ajax({
+                type: "GET",
+          url: url,
+          dataType: "json",
+          async: false,
+          success:function(data){
+            backFun(data);
+          },
+          error: function(){
+            //alert("error");
+          }
+            });
+        };
+        /*
+        **处理summary table 数据
+        **.J-summary-table 要填充表格自定义样式仅供js使用
+        **summaryData.SUMMARY 数据项
+        **summaryData.id tr行id eg:cbi-table-1
+        */
+        function setSummary(summaryData){
+            var rtnStr = '';
+        if(summaryData.SUMMARY.length > 0 ){
+            $.each(summaryData.SUMMARY,function(i,v){
+                var elapsed = v.Elapsed ==0 ? '' : formatDateTime(v.Elapsed);
+                //拼接tr 数据行
+            rtnStr += '<tr class="cbi-section-table-row cbi-rowstyle-'+summaryData.id+'" id="cbi-table-'+summaryData.id+'">\
+                        <td class="cbi-value-field">\
+                            <div id="ant_elapsed">'+elapsed+'</div>\
+                            <div id="cbip-table-'+summaryData.id+'-elapsed"></div>\
+                        </td>\
+                        <td class="cbi-value-field">\
+                            <div id="ant_ghs5s">'+v['GHS 5s']+'</div>\
+                            <div id="cbip-table-'+summaryData.id+'-ghs5s"></div>\
+                        </td>\
+                        <td class="cbi-value-field">\
+                            <div id="ant_ghsav">'+v['GHS av']+'</div>\
+                            <div id="cbip-table-'+summaryData.id+'-ghsav"></div>\
+                        </td>\
+                        <td class="cbi-value-field">\
+                            <div id="ant_foundblocks">'+0+'</div>\
+                            <div id="cbip-table-'+summaryData.id+'-foundblocks"></div>\
+                        </td>\
+                        <td class="cbi-value-field">\
+                            <div id="ant_localwork">'+0+'</div>\
+                            <div id="cbip-table-'+summaryData.id+'-localwork"></div>\
+                        </td>\
+                        <td class="cbi-value-field">\
+                            <div id="ant_utility">'+0+'</div>\
+                            <div id="cbip-table-'+summaryData.id+'-utility"></div>\
+                        </td>\
+                        <td class="cbi-value-field">\
+                            <div id="ant_wu">'+0+'</div>\
+                            <div id="cbip-table-'+summaryData.id+'-wu"></div>\
+                        </td>\
+                        <td class="cbi-value-field">\
+                            <div id="ant_bestshare">'+0+'</div>\
+                            <div id="cbip-table-'+summaryData.id+'-bestshare"></div>\
+                        </td>\
+                        <td class="cbi-value-field" style="display:none">\
+                            <div id="ant_hardwarerrors">'+v['Hardware Errors']+'</div>\
+                            <div id="cbip-table-'+summaryData.id+'-hardwarerrors"></div>\
+                        </td>\
+                    </tr>';
+        });
+        $(".J-summary-table").append(rtnStr);
+        }else{
+            return;
+        }
+        };
+        /*
+        **处理pools table 数据
+        **.J-pools-table 要填充表格自定义样式仅供js使用
+        **poolsData.SUMMARY 数据项
+        */
+        function setPools(poolsData){
+            var rtnStr = [];
+            var totalObj = {};
+            var totalGetWorks = 0;
+            var totalPriority = 0;
+            var totalAccepted = 0;
+            var totalDiff1 = 0;
+            var totalDiffA = 0;
+            var totalDiffR = 0;
+            var totalDiffS = 0;
+            var totalRejected = 0;
+            var totalDiscarded = 0;
+            var totalStale = 0;
+            var hwUrl = $("#ant_hardwarerrors").text();
+            var hwDiffA = 0;
+            var totalDiffA_hw = 0;
+            
+            if(poolsData.POOLS.length > 0 ){
+                $.each(poolsData.POOLS, function(i,v){
+                    //拼接数据行
+                    rtnStr += '<tr class="cbi-section-table-row cbi-rowstyle-'+poolsData.id+'" id="cbi-table-'+poolsData.id+'">\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-pool">'+v['POOL']+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-pool"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-url">'+"No URL"+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-url"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-user">'+"No User"+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-user"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-status">'+"Unknown"+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-status"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-diff">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-diff"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-getworks">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-getworks"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-priority">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-priority"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-accepted">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-accepted"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-diff1shares">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-diff1shares"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-diffaccepted">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-diffaccepted"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-diffrejected">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-diffrejected"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-diffstale">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-diffstale"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-rejected">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-rejected"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-discarded">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-discarded"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-stale">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-stale"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-lastsharedifficulty">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-lastsharedifficulty"></div>\
+                            </td>\
+                            <td class="cbi-value-field">\
+                                <div id="cbi-table-'+poolsData.id+'-lastsharetime">'+0+'</div>\
+                                <div id="cbip-table-'+poolsData.id+'-lastsharetime"></div>\
+                            </td>\
+                        </tr>';
+                    //计算total 总数据
+                    totalGetWorks += 0;
+                    totalPriority += 0;
+                    totalAccepted += 0;
+                    totalDiff1 += 0;
+                    totalDiffA += 0;
+                    totalDiffR += 0;
+                    totalDiffS += 0;
+                    totalRejected += 0;
+                    totalDiscarded += 0;
+                    totalStale += 0;
+                    totalDiffA_hw += v['Difficulty Accepted'];
+                });
+                //计算HW数据
+                hwDiffA = (hwUrl/totalDiffA_hw*100).toFixed(4) + "%";
+                //填充数据
+                var tfootStr = '<tr class="cbi-section-table-row cbi-rowstyle-1" id="cbi-table-1">\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-pool">total</div>\
+                                    <div id="cbip-table-1-pool"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-url"></div>\
+                                    <div id="cbip-table-1-url"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-user"></div>\
+                                    <div id="cbip-table-1-user"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-status"></div>\
+                                    <div id="cbip-table-1-status"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-diff"></div>\
+                                    <div id="cbip-table-1-diff"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-getworks">'+totalGetWorks+'</div>\
+                                    <div id="cbip-table-1-getworks"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-priority">'+totalPriority+'</div>\
+                                    <div id="cbip-table-1-priority"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-accepted">'+totalAccepted+'</div>\
+                                    <div id="cbip-table-1-accepted"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-diff1shares">'+totalDiff1+'</div>\
+                                    <div id="cbip-table-1-diff1shares"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-diffaccepted">'+totalDiffA+'</div>\
+                                    <div id="cbip-table-1-diffaccepted"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-diffrejected">'+totalDiffR+'</div>\
+                                    <div id="cbip-table-1-diffrejected"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-diffstale">'+totalDiffS+'</div>\
+                                    <div id="cbip-table-1-diffstale"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-rejected">'+totalRejected+'</div>\
+                                    <div id="cbip-table-1-rejected"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-discarded">'+totalDiscarded+'</div>\
+                                    <div id="cbip-table-1-discarded"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-stale">'+totalStale+'</div>\
+                                    <div id="cbip-table-1-stale"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-lastsharedifficulty"></div>\
+                                    <div id="cbip-table-1-lastsharedifficulty"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-lastsharetime"></div>\
+                                    <div id="cbip-table-1-lastsharetime"></div>\
+                                </td>\
+                            </tr>\
+                            <tr class="cbi-section-table-row cbi-rowstyle-1" id="cbi-table-1">\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-pool">HW</div>\
+                                    <div id="cbip-table-1-pool"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-url">'+hwUrl+'</div>\
+                                    <div id="cbip-table-1-url"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-user"></div>\
+                                    <div id="cbip-table-1-user"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-status"></div>\
+                                    <div id="cbip-table-1-status"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-diff"></div>\
+                                    <div id="cbip-table-1-diff"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-getworks"></div>\
+                                    <div id="cbip-table-1-getworks"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-priority"></div>\
+                                    <div id="cbip-table-1-priority"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-accepted"></div>\
+                                    <div id="cbip-table-1-accepted"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-diff1shares"></div>\
+                                    <div id="cbip-table-1-diff1shares"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-diffaccepted">'+hwDiffA+'</div>\
+                                    <div id="cbip-table-1-diffaccepted"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-diffrejected"></div>\
+                                    <div id="cbip-table-1-diffrejected"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-diffstale"></div>\
+                                    <div id="cbip-table-1-diffstale"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-rejected"></div>\
+                                    <div id="cbip-table-1-rejected"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-discarded"></div>\
+                                    <div id="cbip-table-1-discarded"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-stale"></div>\
+                                    <div id="cbip-table-1-stale"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-lastsharedifficulty"></div>\
+                                    <div id="cbip-table-1-lastsharedifficulty"></div>\
+                                </td>\
+                                <td class="cbi-value-field">\
+                                    <div id="cbi-table-1-lastsharetime"></div>\
+                                    <div id="cbip-table-1-lastsharetime"></div>\
+                                </td>\
+                            </tr>';
+                $(".J-pools-table tbody").append(rtnStr);
+                $(".J-pools-table tfoot").append(tfootStr);
+            }
+        };
+        /*
+        **处理antminer table 数据
+        **.J-antminer-table 要填充表格自定义样式仅供js使用
+        **antMinerData.STATS[1] 数据项
+        */
+        function setAntMiner(antMinerData){
+            var rtnStr = '';
+            var str1 = "chain_rate";
+            var chain_rate = {};
+            var chain_acn = {};
+            var chain_acs = {};
+                        var chain_hw = {};
+            var temp_pcb ={};
+            var temp_chip ={};
+            var chainId = [];
+            var fanArr = {};
+            var frequency = '';
+            var chain_freq = {};
+        if(antMinerData.STATS.length > 0 ){
+            var data = antMinerData.STATS[1];
+            frequency = data.frequency;
+            $.each(data,function(i,v){
+
+                if( i.indexOf("chain_rate") > -1){
+                    chain_rate[i] = v;
+                }
+                if( i.indexOf("chain_acn") > -1){
+                    chain_acn[i] = v;
+                    if(v > 0){
+                        var chai_id = Number(i.split("_acn")[1]);
+                        chainId.push(chai_id); 
+                    }
+                }
+                if( i.indexOf("chain_hw") > -1) {
+                    chain_hw[i] = v;
+                }
+                if( i.indexOf("freq") > -1) {
+                    chain_freq[i] = v;
+                }
+                if( i.indexOf("temp_pcb") > -1){
+                    temp_pcb[i] = v;
+                }
+                if( i.indexOf("temp_chip") > -1){
+                    temp_chip[i] = v;
+                }
+                if( i.indexOf("chain_acs") > -1){
+                    chain_acs[i] = v;
+                }
+                if( i.indexOf("fan") > -1){
+                    fanArr[i] = v;
+                }
+            });
+        }
+
+        var ChainIdUnique = uniqueArr(chainId);
+        var chainIdSort = ChainIdUnique.sort(compare);
+
+        //根据chainId 循环输出数据行
+        if(chainIdSort.length >0){
+
+            $.each(chainIdSort, function(i,v){
+                rtnStr += '<tr class="cbi-section-table-row cbi-rowstyle-1">\
+                    <td class="cbi-value-field">\
+                        <div>'+v+'</div>\
+                    </td>\
+                    <td class="cbi-value-field">\
+                        <div>'+chain_acn['chain_acn'+v]+'</div>\
+                    </td>\
+                    <td class="cbi-value-field">\
+                        <div>'+chain_freq['freq'+v]+'</div>\
+                    </td>\
+                    <td class="cbi-value-field">\
+                        <div>'+chain_rate['chain_rate'+v]+'</div>\
+                    </td>\
+                    <td class="cbi-value-field">\
+                        <div>'+chain_hw['chain_hw'+v]+'</div>\
+                    </td>\
+                    <td class="cbi-value-field">\
+                        <div>'+temp_pcb['temp_pcb'+v]+'</div>\
+                    </td>\
+                    <td class="cbi-value-field">\
+                        <div>'+temp_chip['temp_chip'+v]+'</div>\
+                    </td>\
+                    <td class="cbi-value-field">\
+                        <div>'+chain_acs['chain_acs'+v]+'</div>\
+                    </td>\
+                </tr>';
+            });
+            $("#ant_devs tbody").append(rtnStr);
+        }else{
+            $("#ant_devs tbody").append('<tr><td colspan="7">暂无数据！</td></tr>');
+        }
+        
+        //fan_num 根据fanArr 生成fan数据
+        if(fanArr){
+            var fanStr = '';
+            var thStr = '<thead>\
+            <tr class="cbi-section-table-titles">\
+            <th class="cbi-section-table-cell" style="width:10%;">Fan#</th>';
+            var tdStr = '</tr>\
+            </thead><tbody><tr class="cbi-section-table-row"><td class="cbi-rowstyle-1 cbi-value-field">Speed (r/min)</td>';
+            $.each(fanArr, function(i,v){
+                if(i != "fan_num" && v != 0){
+                    thStr += '<th class="cbi-section-table-cell">'+i+'</th>';
+                    tdStr += '<td id="ant_'+i+'" class="cbi-rowstyle-1 cbi-value-field">'+v+'</td>';
+                }
+            });
+            tdStr += '</tr></tbody>';
+            $("#ant_fans").append(thStr, tdStr);
+        }
+        
+        };
+        //数组去重
+        function uniqueArr(arr){
+          var res = [];
+            var json = {};
+            for(var i = 0; i < arr.length; i++){
+              if(!json[arr[i]]){
+               res.push(arr[i]);
+               json[arr[i]] = 1;
+              }
+             }
+            return res;
+        }
+        //数组排序
+        function compare (x, y) {//比较函数
+            if (x < y) {
+                return -1;
+            } else if (x > y) {
+                return 1;
+            } else {
+                return 0;
+            }
+        }
+
+        
+        //处理时间函数
+        function formatDateTime(inputTime) {    
+            /*var date = new Date(inputTime);  
+            var y = date.getFullYear();    
+            var m = date.getMonth() + 1;    
+            //m = m < 10 ? ('0' + m) : m;    
+            var d = date.getDate();    
+            //d = d < 10 ? ('0' + d) : d;    
+            var h = date.getHours();  
+            //h = h < 10 ? ('0' + h) : h;  
+            var minute = date.getMinutes();  
+            var second = date.getSeconds();  
+            //minute = minute < 10 ? ('0' + minute) : minute;    
+            //second = second < 10 ? ('0' + second) : second;   
+            return d+'d'+h+'h'+minute+'m'+second+'s';   */
+            var d = parseInt(inputTime / 86400);
+            var h = parseInt((inputTime-d*86400)/3600); 
+            var m = parseInt((inputTime - d*86400 - h*3600) / 60);
+            var s = (inputTime - d*86400 - h*3600 - m*60);
+
+            var dStr = d==0 ? '' : d+'d';
+            var hStr = h==0 ? '' : h+'h';
+            var mStr = m==0 ? '' : m+'m';
+            var sStr = s==0 ? '' : s+'s';
+            return dStr + hStr + mStr + sStr;
+        }; 
+
+    });
+
+</script>
+</body>
+</html>

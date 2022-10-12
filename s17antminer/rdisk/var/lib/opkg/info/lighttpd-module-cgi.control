@@ -1,0 +1,13 @@
+Package: lighttpd-module-cgi
+Version: 1.4.32-r1.193
+Description: lighttpd version 1.4.32-r1
+ Lighttpd module for cgi
+Section: net
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: BSD
+Architecture: armv7ahf-vfp-neon
+OE: lighttpd
+Homepage: http://www.lighttpd.net/
+Depends: libc6 (>= 2.17)
+Source: http://download.lighttpd.net/lighttpd/releases-1.4.x/lighttpd-1.4.32.tar.bz2 file://index.html.lighttpd file://lighttpd.conf file://lighttpd file://lighttpd.conf file://lighttpd-htdigest.user file://www file://www_miner file://www-ltc file://www-ltc-p file://www-r4-ltc file://www-dash file://www-sia file://www-v11 file://www-t11 file://www-t11a file://www-t15 file://www-s15 file://www-s17 file://www-s17+ file://www-t17 file://www-t17+ file://www-s17e file://www-t17e file://www-p17 file://www-s19 file://www-sig file://www_vendor_pages
