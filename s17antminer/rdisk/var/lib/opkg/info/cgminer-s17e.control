@@ -1,0 +1,13 @@
+Package: cgminer-s17e
+Version: 1.0-r1.35
+Description: cgminer-s17e version 1.0-r1
+ Cgminer S17e miner SW
+Section: base
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: CLOSED
+Architecture: armv7ahf-vfp-neon
+OE: cgminer-s17e
+Homepage: unknown
+Depends: libgcc1 (>= linaro-4.7), libc6 (>= 2.17)
+Source: gitsm://`whoami`@10.14.11.1:29418/antminer/btc-cgminer-1396;protocol=ssh;branch=master

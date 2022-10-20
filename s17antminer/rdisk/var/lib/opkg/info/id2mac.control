@@ -1,0 +1,13 @@
+Package: id2mac
+Version: 1.0-r0.1
+Description: id2mac version 1.0-r0
+ id2mac version 1.0-r0
+Section: base
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: CLOSED
+Architecture: armv7ahf-vfp-neon
+OE: id2mac
+Homepage: unknown
+Depends: libc6 (>= 2.17)
+Source: file://*

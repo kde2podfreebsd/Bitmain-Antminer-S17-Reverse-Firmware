@@ -1,0 +1,13 @@
+Package: cgminer-s17+
+Version: 1.0-r1.44
+Description: cgminer-s17+ version 1.0-r1
+ Cgminer S17+ miner SW
+Section: base
+Priority: optional
+Maintainer: Angstrom Developers <angstrom-distro-devel@linuxtogo.org>
+License: CLOSED
+Architecture: armv7ahf-vfp-neon
+OE: cgminer-s17+
+Homepage: unknown
+Depends: cgminer-s17e (>= 1.0), libgcc1 (>= linaro-4.7), libc6 (>= 2.17)
+Source: gitsm://`whoami`@10.14.11.1:29418/antminer/1397;protocol=ssh;branch=S17_Plus
