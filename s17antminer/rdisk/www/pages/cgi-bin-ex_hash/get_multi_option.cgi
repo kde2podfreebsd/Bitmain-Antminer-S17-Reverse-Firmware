@@ -7759,3 +7759,12268 @@ echo {
 		echo }
 	echo ]
 echo }
+
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
+echo {
+	echo \"ModeInfo\":[
+		echo {
+			echo \"ModeName\":\"Normal\",
+   			echo \"ModeValue\":\"0\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\",
+				echo \"HashRate+1.0TH/S\":\"1000\",
+				echo \"HashRate+2.0TH/S\":\"2000\",
+				echo \"HashRate+3.0TH/S\":\"3000\",
+				echo \"HashRate+4.0TH/S\":\"4000\",
+				echo \"HashRate+5.0TH/S\":\"5000\",
+				echo \"HashRate+6.0TH/S\":\"6000\",
+				echo \"HashRate+7.0TH/S\":\"7000\",
+				echo \"HashRate+8.0TH/S\":\"8000\",
+				echo \"HashRate+9.0TH/S\":\"9000\",
+				echo \"HashRate+10.0TH/S\":\"10000\"
+			echo }
+		echo },
+		echo {
+			echo \"ModeName\":\"Sleep Mode\",
+   			echo \"ModeValue\":\"254\",
+   			echo \"Level\":{
+				echo \"Normal\":\"0\"
+			echo }
+		echo }
+	echo ]
+echo }
