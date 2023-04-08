@@ -1,4 +1,5 @@
 # Bitmain Antminer S17
+## Reversed by [@deraswer](https://github.com/deraswer)
 
 ```.sh
 binwalk -e
